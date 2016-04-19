@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: b2n marketing
-datePublished: '2016-04-19T08:03:25.391Z'
-dateModified: '2016-04-19T08:03:21.397Z'
+datePublished: '2016-04-19T08:05:29.741Z'
+dateModified: '2016-04-19T08:05:29.321Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-b2n-marketing.md
