@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[b2n marketing]]></title>
         <description><![CDATA[b2n marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/b2n-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 07:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 08:04:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/b2n-marketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/601cf8b4-25b7-4589-946e-d3907ffc9b70.jpg">]]></description>
-            <link>undefinedb2n-marketing/index.html</link>
+            <link>https://thegrid.ai/b2n-marketing/b2n-marketing/index.html</link>
             <guid isPermaLink="false">76fe9d9d-01af-497f-b5d9-77e2740b2df7</guid>
-            <pubDate>Tue, 19 Apr 2016 07:57:56 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 08:03:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
